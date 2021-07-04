@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+body {
+    background-color: #8ea7a4;
+    font-family: Arial, Helvetica, sans-serif;    
+} 
+
+header {
+    background-color: #383E56;
+}
+
+
+h1 {
+    color: #FB743E;
+    background-color: #383E56;
+}
+
+h3 {
+    color: #FB743E;
+    background-color: #9FB8AD;
+}
+
+h4 {
+    color: #FB743E;
+    background-color: #9FB8AD;
+}
+
+p {
+    color: #383E56;
+    text-align: justify;
+}
+
+
+a {
+    color: #383E56;
+}
+
+ol {
+    color: #FB743E;
+}
+
+ul {
+    color: #FB743E;
+}
